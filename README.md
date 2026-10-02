@@ -39,7 +39,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=M.Sc.+Applied+Data+Science+Student;BCA+Graduate;Data+Analytics+%7C+Python+%7C+SQL+%7C+Power+BI;Building+Data-Driven+Applications;Turning+Raw+Data+into+Meaningful+Insights" />
 
 <br><br>
-
 <table>
 <tr>
 
@@ -73,7 +72,7 @@ Programming • Databases • Web Technologies
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,github" />
 
 </td>
 
@@ -85,6 +84,7 @@ Programming • Databases • Web Technologies
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=I+enjoy+working+with+data+and+discovering+patterns.;I+build+practical+projects+to+solve+real-world+problems.;My+focus%3A+Analytics+%E2%80%A2+Programming+%E2%80%A2+Problem+Solving" />
 
 </div>
+
 
 ---
 
