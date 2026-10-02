@@ -7,7 +7,7 @@
 <!-- ========================= HERO ========================== -->
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=NAVEEN%20KUMAR%20M&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=DATA%20ANALYST%20%7C%20APPLIED%20DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20SQL%20%7C%20POWER%20BI&descSize=18&descAlignY=57&animation=fadeIn&color=0:020617,30:0f172a,65:312e81,100:00d4ff"
+src="https://capsule-render.vercel.app/api?type=waving&height=290&section=header&text=NAVEEN%20KUMAR%20M&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=DATA%20ANALYST%20%7C%20APPLIED%20DATA%20SCIENCE%20%7C%20PYTHON%20%7C%20SQL%20%7C%20POWER%20BI&descSize=18&descAlignY=57&animation=fadeIn&color=0:020617,30:0f172a,65:312e81,100:00d4ff"
 width="100%"
 alt="Naveen Kumar"
 />
@@ -15,13 +15,11 @@ alt="Naveen Kumar"
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=HELLO%2C+I'M+NAVEEN+KUMAR+%F0%9F%91%8B;M.Sc.+APPLIED+DATA+SCIENCE+%F0%9F%8E%93;TURNING+DATA+INTO+INSIGHTS+%F0%9F%93%8A;BUILDING+PRACTICAL+DATA+APPLICATIONS+%F0%9F%9A%80;PYTHON+%7C+SQL+%7C+POWER+BI+%7C+DATA+ANALYTICS"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=HELLO%2C+I'M+NAVEEN+KUMAR+%F0%9F%91%8B;M.Sc.+APPLIED+DATA+SCIENCE+%F0%9F%8E%93;TURNING+DATA+INTO+INSIGHTS+%F0%9F%93%8A;BUILDING+DATA-DRIVEN+APPLICATIONS+%F0%9F%9A%80;PYTHON+%7C+SQL+%7C+POWER+BI+%7C+DATA+SCIENCE"
 alt="Animated introduction"
 />
 
 <br><br>
-
-<!-- ======================== BUTTONS ======================== -->
 
 <a href="https://github.com/Naveenkumar-4247">
 <img
@@ -50,8 +48,6 @@ alt="FitLyfe Live"
 
 </div>
 
-<br>
-
 ---
 
 <!-- ========================================================= -->
@@ -72,23 +68,21 @@ alt="FitLyfe Live"
 <p>
 🎓 <b>M.Sc. Applied Data Science</b><br>
 💻 <b>BCA Graduate</b><br>
-📊 Focused on <b>Data Analytics & Data Science</b><br>
-🐍 Building with <b>Python</b><br>
-🗄️ Working with <b>SQL & Databases</b><br>
-📈 Creating dashboards with <b>Power BI</b>
-</p>
-
-<br>
-
-<p>
-I enjoy transforming raw data into meaningful information,
-finding patterns, creating visualizations and building
-practical applications around real-world problems.
+📊 <b>Data Analytics & Data Science</b><br>
+🐍 <b>Python</b> for programming and analysis<br>
+🗄️ <b>SQL</b> for data and databases<br>
+📈 <b>Power BI</b> for dashboards and reporting
 </p>
 
 <p>
-My approach is simple:
-<b>Learn → Build → Analyze → Improve.</b>
+I enjoy turning raw data into meaningful insights,
+discovering patterns, building visualizations and
+developing practical data-driven applications.
+</p>
+
+<p>
+<b>My workflow:</b><br>
+Learn → Build → Analyze → Improve
 </p>
 
 <br>
@@ -98,17 +92,17 @@ My approach is simple:
 
 <td align="center">
 <b>🐍 PYTHON</b><br>
-Data & Programming
+Programming & Data
 </td>
 
 <td align="center">
 <b>🗄️ SQL</b><br>
-Query & Analysis
+Queries & Analysis
 </td>
 
 <td align="center">
 <b>📊 POWER BI</b><br>
-Dashboards
+Dashboards & KPIs
 </td>
 
 </tr>
@@ -120,14 +114,14 @@ Dashboards
 
 <img
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="95%"
+width="92%"
 alt="Developer coding animation"
 />
 
-<br><br>
+<br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=400&lines=DATA+%2B+CODE;BUILDING+WITH+PURPOSE;ALWAYS+LEARNING"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=390&lines=DATA+%2B+CODE;BUILDING+WITH+PURPOSE;ALWAYS+LEARNING"
 alt="About animation"
 />
 
@@ -147,8 +141,6 @@ alt="About animation"
 <div align="center">
 
 ## ⚡ TECH STACK
-
-<br>
 
 <table>
 <tr>
@@ -238,6 +230,98 @@ alt="Technology stack"
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                  🧠 LEARNING ROADMAP                      -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🧠 CURRENTLY LEARNING
+
+<p>
+  <b>From Data Analytics → Data Science → AI Engineering</b>
+</p>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+<h2>📊</h2>
+<b>DATA SCIENCE</b><br>
+<sub>Statistics • Probability • DSA</sub>
+</td>
+
+<td align="center" width="20%">
+<h2>🤖</h2>
+<b>MACHINE LEARNING</b><br>
+<sub>Models • Features • Evaluation</sub>
+</td>
+
+<td align="center" width="20%">
+<h2>🧠</h2>
+<b>DEEP LEARNING</b><br>
+<sub>Neural Nets • CNN • PyTorch</sub>
+</td>
+
+<td align="center" width="20%">
+<h2>💬</h2>
+<b>NLP</b><br>
+<sub>Transformers • BERT • Embeddings</sub>
+</td>
+
+<td align="center" width="20%">
+<h2>✨</h2>
+<b>GENERATIVE AI</b><br>
+<sub>LLMs • Prompting • Multimodal AI</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<h2>🔎</h2>
+<b>RAG</b><br>
+<sub>Retrieval • Vector DB • Pipelines</sub>
+</td>
+
+<td align="center">
+<h2>🧩</h2>
+<b>AI AGENTS</b><br>
+<sub>Tools • Memory • Workflows</sub>
+</td>
+
+<td align="center">
+<h2>☁️</h2>
+<b>MLOps</b><br>
+<sub>Docker • APIs • Cloud</sub>
+</td>
+
+<td align="center">
+<h2>⚡</h2>
+<b>BUILD</b><br>
+<sub>Projects • Experiments • Systems</sub>
+</td>
+
+<td align="center">
+<h2>🚀</h2>
+<b>DEPLOY</b><br>
+<sub>Production • Automation • Scale</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=ANALYTICS+%E2%86%92+ML+%E2%86%92+DEEP+LEARNING;NLP+%E2%86%92+GENERATIVE+AI+%E2%86%92+RAG;RAG+%E2%86%92+AI+AGENTS+%E2%86%92+MLOps;LEARN+%E2%80%A2+BUILD+%E2%80%A2+DEPLOY+%E2%80%A2+EVOLVE"
+alt="Learning roadmap"
+/>
+
+</div>
+
+---
 
 <!-- ========================================================= -->
 <!--                     FEATURED PROJECT                       -->
@@ -248,16 +332,14 @@ alt="Technology stack"
 ## 🏆 FEATURED PROJECT
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2300&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=FITLYFE;GOAL+TRACKING+ANALYTICS;FITNESS+%7C+GOALS+%7C+DATA+%7C+INSIGHTS"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2300&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=FITLYFE;GOAL+TRACKING+ANALYTICS;FITNESS+%7C+GOALS+%7C+DATA+%7C+INSIGHTS"
 alt="FitLyfe animated title"
 />
-
-<br><br>
 
 <table>
 <tr>
 
-<td width="52%" align="center">
+<td width="53%" align="center">
 
 <img
 src="./fitlyfe-landing.png.png"
@@ -274,18 +356,18 @@ alt="Open FitLyfe"
 />
 </a>
 
-<br><br>
+&nbsp;
 
 <a href="https://github.com/Naveenkumar-4247/fitlyfe">
 <img
-src="https://img.shields.io/badge/💻%20VIEW%20SOURCE-7C3AED?style=for-the-badge&labelColor=0F172A"
+src="https://img.shields.io/badge/💻%20SOURCE-7C3AED?style=for-the-badge&labelColor=0F172A"
 alt="FitLyfe source"
 />
 </a>
 
 </td>
 
-<td width="48%" valign="middle">
+<td width="47%" valign="middle">
 
 <h2>🏋️ FitLyfe</h2>
 
@@ -293,11 +375,9 @@ alt="FitLyfe source"
 
 <p>
 A fitness and daily-routine analytics application
-designed to track goals, activities and progress
-using data-driven insights.
+that converts user activity into measurable goals,
+visualizations, predictions and actionable insights.
 </p>
-
-<br>
 
 <table>
 
@@ -388,20 +468,21 @@ alt="Plotly"
 ## 🔄 DATA ANALYTICS WORKFLOW
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=600&color=7C3AED&center=true&vCenter=true&width=900&lines=RAW+DATA+%E2%86%92+CLEANING+%E2%86%92+ANALYSIS+%E2%86%92+VISUALIZATION+%E2%86%92+INSIGHTS"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=600&color=7C3AED&center=true&vCenter=true&width=900&lines=RAW+DATA+%E2%86%92+CLEANING+%E2%86%92+ANALYSIS+%E2%86%92+VISUALIZATION+%E2%86%92+INSIGHTS"
 alt="Analytics workflow"
 />
 
-<br><br>
-
 <table>
+
 <tr>
 
-<td align="center" width="18%">
+<td align="center" width="20%">
 
-<h1>📥</h1>
+<h2>📥</h2>
 
-<h3>COLLECT</h3>
+<b>COLLECT</b>
+
+<br><br>
 
 Raw Data<br>
 Files<br>
@@ -410,31 +491,39 @@ Applications
 
 </td>
 
-<td width="7%" align="center">
-<h1>➜</h1>
+<td align="center" width="5%">
+
+<h2>→</h2>
+
 </td>
 
-<td align="center" width="18%">
+<td align="center" width="20%">
 
-<h1>🧹</h1>
+<h2>🧹</h2>
 
-<h3>CLEAN</h3>
+<b>CLEAN</b>
 
-Missing Data<br>
+<br><br>
+
+Missing Values<br>
 Duplicates<br>
 Validation
 
 </td>
 
-<td width="7%" align="center">
-<h1>➜</h1>
+<td align="center" width="5%">
+
+<h2>→</h2>
+
 </td>
 
-<td align="center" width="18%">
+<td align="center" width="20%">
 
-<h1>🔍</h1>
+<h2>🔍</h2>
 
-<h3>ANALYZE</h3>
+<b>ANALYZE</b>
+
+<br><br>
 
 Patterns<br>
 Trends<br>
@@ -442,15 +531,19 @@ Relationships
 
 </td>
 
-<td width="7%" align="center">
-<h1>➜</h1>
+<td align="center" width="5%">
+
+<h2>→</h2>
+
 </td>
 
-<td align="center" width="18%">
+<td align="center" width="20%">
 
-<h1>📊</h1>
+<h2>📊</h2>
 
-<h3>VISUALIZE</h3>
+<b>VISUALIZE</b>
+
+<br><br>
 
 Charts<br>
 Dashboards<br>
@@ -459,34 +552,7 @@ KPIs
 </td>
 
 </tr>
-</table>
 
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<h2>💡 INSIGHTS</h2>
-
-Patterns → Meaning<br>
-Trends → Understanding<br>
-KPIs → Performance
-
-</td>
-
-<td align="center" width="50%">
-
-<h2>🎯 DECISIONS</h2>
-
-Understand<br>
-Optimize<br>
-Improve
-
-</td>
-
-</tr>
 </table>
 
 </div>
@@ -494,30 +560,31 @@ Improve
 ---
 
 <!-- ========================================================= -->
-<!--                 GITHUB CONTRIBUTION ACTIVITY              -->
+<!--                  GITHUB ANALYTICS                          -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-## 📈 GITHUB CONTRIBUTION ACTIVITY
+## 📈 GITHUB CONTRIBUTION ANALYTICS
+
+<p>
+<b>Contribution activity • Development consistency • Repository activity</b>
+</p>
+
+<br>
+
+<!-- PROFILE DETAILS = REAL GITHUB CONTRIBUTION DATA -->
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=700&color=39FF88&center=true&vCenter=true&width=800&lines=CODE+%E2%80%A2+COMMIT+%E2%80%A2+LEARN+%E2%80%A2+BUILD;CONSISTENCY+THROUGH+CODE"
-alt="Contribution animation"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveenkumar-4247&theme=github_dark"
+width="100%"
+alt="Naveen Kumar GitHub Contribution Activity"
 />
 
-<br><br>
-
-<!--
-GREEN WAVE GRAPH:
-The old public github-readme-activity-graph.vercel.app service
-is currently unavailable. A fake Vercel URL is intentionally NOT
-used here because it creates a broken image.
-
-The working GitHub statistics are shown below.
--->
+<br>
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
@@ -525,7 +592,7 @@ The working GitHub statistics are shown below.
 <h3>📊 GITHUB STATISTICS</h3>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-4247&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF&include_all_commits=true"
+src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-4247&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=7C3AED&text_color=FFFFFF&ring_color=00D4FF"
 width="100%"
 alt="Naveen Kumar GitHub Statistics"
 />
@@ -537,7 +604,7 @@ alt="Naveen Kumar GitHub Statistics"
 <h3>💻 TOP LANGUAGES</h3>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-4247&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-4247&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"
 width="100%"
 alt="Naveen Kumar Top Languages"
 />
@@ -545,6 +612,7 @@ alt="Naveen Kumar Top Languages"
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -552,7 +620,7 @@ alt="Naveen Kumar Top Languages"
 <h3>🔥 CONTRIBUTION STREAK</h3>
 
 <img
-src="https://streak-stats.demolab.com?user=Naveenkumar-4247&theme=transparent&hide_border=true&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E"
+src="https://streak-stats.demolab.com?user=Naveenkumar-4247&theme=transparent&hide_border=true&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=8B949E"
 width="82%"
 alt="Naveen Kumar GitHub Contribution Streak"
 />
@@ -562,19 +630,12 @@ alt="Naveen Kumar GitHub Contribution Streak"
 ---
 
 <!-- ========================================================= -->
-<!--                     CERTIFICATIONS                         -->
+<!--                  CERTIFICATIONS                            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 ## 🎓 CERTIFICATIONS & LEARNING
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2300&pause=700&color=7C3AED&center=true&vCenter=true&width=850&lines=CONTINUOUS+LEARNING;BUILDING+SKILLS+THROUGH+PRACTICE;LEARN+%E2%80%A2+BUILD+%E2%80%A2+GROW"
-alt="Certification animation"
-/>
-
-<br><br>
 
 <table>
 
@@ -582,7 +643,7 @@ alt="Certification animation"
 
 <td width="33%" align="center">
 
-<h1>🐍</h1>
+<h2>🐍</h2>
 
 <h3>PYTHON</h3>
 
@@ -597,7 +658,7 @@ Python Development
 
 <td width="33%" align="center">
 
-<h1>🗄️</h1>
+<h2>🗄️</h2>
 
 <h3>SQL</h3>
 
@@ -612,7 +673,7 @@ Database Fundamentals
 
 <td width="33%" align="center">
 
-<h1>🍃</h1>
+<h2>🍃</h2>
 
 <h3>MONGODB</h3>
 
@@ -631,7 +692,7 @@ Database Concepts
 
 <td align="center">
 
-<h1>☁️</h1>
+<h2>☁️</h2>
 
 <h3>CLOUD</h3>
 
@@ -645,7 +706,7 @@ Cloud Fundamentals
 
 <td align="center">
 
-<h1>🤖</h1>
+<h2>🤖</h2>
 
 <h3>AI / ML</h3>
 
@@ -659,7 +720,7 @@ AI/ML for Developers
 
 <td align="center">
 
-<h1>☁️</h1>
+<h2>☁️</h2>
 
 <h3>CLOUD ARCHITECTURE</h3>
 
@@ -677,7 +738,7 @@ Cloud Architecture
 
 <td align="center">
 
-<h1>☁️</h1>
+<h2>☁️</h2>
 
 <h3>CLOUD FOUNDATIONS</h3>
 
@@ -691,7 +752,7 @@ Cloud Fundamentals
 
 <td align="center">
 
-<h1>🍃</h1>
+<h2>🍃</h2>
 
 <h3>MONGODB ADMINISTRATION</h3>
 
@@ -705,7 +766,7 @@ Database Administration
 
 <td align="center">
 
-<h1>🐍</h1>
+<h2>🐍</h2>
 
 <h3>PYTHON</h3>
 
@@ -726,83 +787,6 @@ Python Programming
 ---
 
 <!-- ========================================================= -->
-<!--                      CURRENT FOCUS                          -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## 🧠 CURRENT FOCUS
-
-<br>
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<h1>🐍</h1>
-
-<h3>PYTHON</h3>
-
-Programming<br>
-Problem Solving<br>
-Data Analysis
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>🗄️</h1>
-
-<h3>SQL</h3>
-
-Queries<br>
-Joins<br>
-Data Analysis
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>📊</h1>
-
-<h3>POWER BI</h3>
-
-Dashboards<br>
-KPIs<br>
-Visualization
-
-</td>
-
-<td align="center" width="25%">
-
-<h1>🧠</h1>
-
-<h3>DSA</h3>
-
-Searching<br>
-Sorting<br>
-Problem Solving
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2100&pause=600&color=00D9FF&center=true&vCenter=true&width=800&lines=IMPROVING+CODING+SKILLS;STRENGTHENING+DATA+ANALYTICS;BUILDING+PROJECTS;PREPARING+FOR+PLACEMENTS"
-alt="Learning animation"
-/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
 <!--                     WHAT I BUILD                           -->
 <!-- ========================================================= -->
 
@@ -810,15 +794,13 @@ alt="Learning animation"
 
 ## 🚀 WHAT I BUILD
 
-<br>
-
 <table>
 
 <tr>
 
 <td align="center" width="33%">
 
-<h1>📊</h1>
+<h2>📊</h2>
 
 <h3>DATA ANALYTICS</h3>
 
@@ -832,25 +814,27 @@ Insights
 
 <td align="center" width="33%">
 
-<h1>🐍</h1>
+<h2>🤖</h2>
 
-<h3>PYTHON PROJECTS</h3>
+<h3>MACHINE LEARNING</h3>
 
-Practical Programs<br>
-Automation<br>
-Data Applications
+Features<br>
+↓<br>
+Models<br>
+↓<br>
+Predictions
 
 </td>
 
 <td align="center" width="33%">
 
-<h1>📈</h1>
+<h2>🧠</h2>
 
-<h3>DASHBOARDS</h3>
+<h3>AI APPLICATIONS</h3>
 
-KPIs<br>
-Charts<br>
-Interactive Insights
+LLMs<br>
+RAG<br>
+AI Workflows
 
 </td>
 
@@ -860,37 +844,37 @@ Interactive Insights
 
 <td align="center">
 
-<h1>🗄️</h1>
+<h2>🐍</h2>
 
-<h3>SQL SOLUTIONS</h3>
+<h3>PYTHON PROJECTS</h3>
 
-Queries<br>
-Joins<br>
-Aggregations
+Automation<br>
+Data Processing<br>
+Applications
 
 </td>
 
 <td align="center">
 
-<h1>🏋️</h1>
+<h2>📈</h2>
+
+<h3>DASHBOARDS</h3>
+
+KPIs<br>
+Charts<br>
+Interactive Insights
+
+</td>
+
+<td align="center">
+
+<h2>🏋️</h2>
 
 <h3>FITNESS ANALYTICS</h3>
 
 Goals<br>
 Progress<br>
 Predictions
-
-</td>
-
-<td align="center">
-
-<h1>🚀</h1>
-
-<h3>DATA APPLICATIONS</h3>
-
-Ideas<br>
-↓<br>
-Working Solutions
 
 </td>
 
@@ -911,7 +895,7 @@ Working Solutions
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=THANKS+FOR+VISITING+MY+PROFILE+%F0%9F%91%8B;KEEP+LEARNING.+KEEP+BUILDING.+KEEP+ANALYZING.;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=THANKS+FOR+VISITING+MY+PROFILE+%F0%9F%91%8B;LEARN.+BUILD.+ANALYZE.+IMPROVE.;SEE+YOU+IN+THE+NEXT+COMMIT+%F0%9F%9A%80"
 alt="Footer animation"
 />
 
@@ -936,7 +920,7 @@ alt="Try FitLyfe"
 <br><br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00D9FF,35:312E81,70:0F172A,100:020617&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00D9FF,35:312E81,70:0F172A,100:020617&animation=fadeIn"
 width="100%"
 alt="Footer"
 />
