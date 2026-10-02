@@ -228,7 +228,7 @@ Matplotlib • Plotly
 
 <a href="https://fitlyfe-wvf6.onrender.com">
 
-<img src="./assets/fitlyfe-landing.png.png"
+<img src="./fitlyfe-landing.png.png"
      alt="FitLyfe Landing Page"
      width="100%"/>
 
